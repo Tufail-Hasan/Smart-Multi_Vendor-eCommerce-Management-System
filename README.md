@@ -143,6 +143,11 @@ This project is developed for educational and portfolio purposes.
 ### 1. MarketPro Homepage
 
 ![Homepage](screenshots/homepage.png)
+### Homepage - Middle
+![Homepage Middle](screenshots/homepage-middle.png)
+
+### Homepage - Bottom
+![Homepage Bottom](screenshots/homepage-bottom.png)
 
 ### 2. Admin Dashboard
 
